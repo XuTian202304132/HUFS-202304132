@@ -1,0 +1,8 @@
+TeamFuture
+TeamRobot
+TeamAI
+TeamHUFS
+TeamAlien
+TeamClone
+TeamGoat
+TeamPupil

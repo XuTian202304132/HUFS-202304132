@@ -1,0 +1,11 @@
+PlayerA 76 71
+PlayerB 75 70
+PlayerC 74 69
+PlayerD 77 72
+PlayerE 73 68
+PlayerF 75 70
+PlayerG 76 71
+PlayerH 74 69
+PlayerI 77 72
+PlayerJ 75 70
+PlayerK 73 68
