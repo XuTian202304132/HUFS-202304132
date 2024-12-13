@@ -17,9 +17,9 @@
 /* [Comment:
    - Team class inherits from LeagueEntity.
    - Each team has 11 players with ATT/DEF values.
-   - TeamPupil: ATT/DEF in [0..9]
+   - TeamPupil: ATT/DEF in [0..9] They're really weak, lol.
    - Others: ATT/DEF in [30..99]
-   - Added resetPoints() method to clear points before re-simulation.
+   - 12.13 Add resetPoints() method to clear points before re-simulation.
 */
 
 class Team : public LeagueEntity {
