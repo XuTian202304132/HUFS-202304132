@@ -14,7 +14,7 @@
 
 /* [Comment:
    League class manages 9 teams, simulates matches, shows standings.
-   Now teams are accessed by number (1 to 9) instead of name.
+   12.13 Number (1 to 9) instead of name.
 */
 
 class League {
