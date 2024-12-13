@@ -36,9 +36,8 @@ int Team::getTotalSkill() const {
     return sum;
 }
 
-/* [Comment: Display team info using abbreviations:
-   - Offense as ATT
-   - Defense as DEF
+/* [- Offense as ATT
+    - Defense as DEF
 */
 std::ostream& operator<<(std::ostream& os, const Team& t) {
     os << "Team Name: " << t.teamName << "\n";
