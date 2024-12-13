@@ -12,7 +12,7 @@
 #include "Team.h"
 
 /* [Comment:
-   Main menu now uses team numbers (1-9) instead of names.
+   12.13 Use team numbers (1-9) instead of names.
    Teams are added in a fixed order:
    1: TeamFuture
    2: TeamRobot
